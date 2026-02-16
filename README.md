@@ -5,6 +5,7 @@ Fnf Gray Engine Is Modified Version OF Psych Engine 0.6.3
 ## Features
 Health Gain Multiplier Up To 10x
 Health loss Multiplier Up To 0.1x
+Playback Rate Up To 5x
 FNF Main Menu Left Instand Of Middle Just Like OS Engine
 Outdated Screen No Longer Shows 
 Make Sure Use Haxe 4.2.4 To Complie The Engine 
